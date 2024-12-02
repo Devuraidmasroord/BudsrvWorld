@@ -1,0 +1,306 @@
+.navbar{
+    padding-top: 0;
+    padding: 0;
+}
+.pop{
+    position: relative;
+    top: 35px;
+}
+.navbar{
+    padding-top: 0;
+    padding: 0;
+}
+.pop{
+    position: relative;
+    top: 35px;
+}
+.dropdown{
+    position: static;
+}
+#dou{
+    padding-left: 230px;
+    color: white;
+}
+#dot{
+    position: absolute;
+}
+ .menu1{
+    position: absolute;
+    background-color: #255A66;
+    display: none;
+    border: none;
+    border-radius: 0;
+    padding: 0.7em;
+    top: 115px;
+    height: 600px;
+    left: 0;
+	width: 100%;
+  }
+  .nav-itemz:hover .menu1{
+    display: block;
+    display: flex;
+    flex-direction: row;
+  }
+  .container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  .pic{
+    width: 100%;
+  }
+  .pic2{
+    width: 100%;
+  }
+.h1{
+    color: black;
+    text-align: start;
+    margin-top: 50px;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 150px;
+    left: 170px;
+  }
+  .bottom-left1{
+    position: absolute;
+    bottom: 150px;
+    left: 150px;
+  }
+.container1{
+    height: 312px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+}
+.container {
+    padding: 2px 16px;
+  }
+.text{
+    margin-top: 30px;
+}
+.btn{
+    color: white;
+    background-color: #D39534;
+    margin-top: 30px;
+}
+h4{
+    text-align: center;
+    margin-top: 10px;
+}
+.to{
+    text-align: center;
+}
+.poler{
+    margin-top: 10%;
+    margin-left: 30%;
+}
+.hts{
+    color: white;
+    padding-left: 28%;
+    padding-top: 3%;
+}
+.hta{
+    color: white;
+    padding-right: 18%;
+}
+li{
+    color: white;
+    margin-top: 3%;
+}
+.heading{
+    color: white;
+    padding-top: 20%;
+}
+.footer {
+    width: 100%;
+    height: 100%;
+    background-color: #173243;
+    color: white;
+    text-align: center;
+ }
+ .mvp{
+    color: white;
+    margin-top: 12px;
+    margin-left: 15px;
+ }
+ #ddo{
+    padding-left: 25px;
+    color: white;
+ }
+ .mv{
+    color: white;
+    margin-top: 12px;
+ }
+ .sap{
+    width: 100%;
+ }
+.left{
+    padding-left: 110px;
+}
+.butn{
+    background-color: #D39534;
+    padding: 8px;
+    color: white;
+    border: none;
+    margin-left: 110px;
+}
+.btn2{
+    background-color: #D39534;
+    padding: 8px;
+    color: white;
+    border: none;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+.h1{
+    color: black;
+    text-align: start;
+    margin-top: 50px;
+}
+.text{
+    margin-top: 30px;
+}
+.btn{
+    color: white;
+    background-color: #D39534;
+    margin-top: 30px;
+}
+h4{
+    text-align: center;
+    margin-top: 10px;
+}
+.to{
+    text-align: center;
+}
+.poler{
+    margin-top: 10%;
+    margin-left: 30%;
+}
+.hts{
+    color: white;
+    padding-left: 28%;
+    padding-top: 3%;
+}
+.hta{
+    color: white;
+    padding-right: 18%;
+}
+li{
+    color: white;
+    margin-top: 3%;
+}
+.heading{
+    color: white;
+    padding-top: 20%;
+}
+.footer {
+    width: 100%;
+    height: 100%;
+    background-color: #173243;
+    color: white;
+    text-align: center;
+ }
+ .mvp{
+    color: white;
+    margin-top: 12px;
+    margin-left: 15px;
+ }
+ .mv{
+    color: white;
+    margin-top: 12px;
+ }
+ .cin{
+    color: #255A66;
+    padding-top: 20px;
+    padding-left: 30px;
+ }
+ .cin2{
+    color: #255A66;
+    padding-top: 40px;
+    padding-left: 20px;
+ }
+ @media only screen and (max-width:767px) and (min-width:320px) {
+    .left{
+        padding-left: 0;
+    }
+    .cin2{
+        text-align: center;
+    }
+    .cin{
+        text-align: center;
+    }
+    .mvp{
+        margin-left: 0;
+    }
+    .hts{
+        padding-left: 0;
+    }
+    .hta{
+        text-align: start;
+    }
+    .poler{
+        margin-left: 0;
+    }
+    .left{
+        padding-left: 0;
+    }
+    #dot{
+        position: static;
+    }
+    .pop{
+        top: 17px;
+    }
+
+    #dou{
+        padding-left: 30px;
+    }
+    #ddo{
+        padding-left: 30px;
+    }
+    .mvp{
+        margin-left: 0;
+    }
+    .hts{
+        padding-left: 0;
+    }
+    .hta{
+        text-align: start;
+    }
+    .poler{
+        margin-left: 0;
+    }
+    .left{
+        text-align: center;
+    }
+  }
+  @media only screen and (max-width:1024px) and (min-width:768px) {
+    .mv{
+        padding: 0%;
+        margin-top: 14px;
+    }
+    .mv{
+        padding: 0%;
+        margin-top: 14px;
+    }
+    #dot{
+        position: static;
+    }
+    #dou{
+        padding-left: 30px;
+    }
+    #ddo{
+        padding-left: 30px;
+    }
+    .pop{
+        top: 18px;
+    }
+  }

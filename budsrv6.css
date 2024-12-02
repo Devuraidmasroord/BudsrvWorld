@@ -1,0 +1,912 @@
+.navbar{
+    padding-top: 0;
+    padding: 0;
+}
+.pop{
+    position: relative;
+    top: 35px;
+}
+.dropdown{
+  position: static;
+}
+.btnzz{
+  width: fit-content;
+}
+.display{
+  display: flex;
+  flex-direction: row;
+}
+#dou{
+  padding-left: 230px;
+  color: white;
+}
+#dot1{
+  position: absolute;
+}
+.menu1{
+  position: absolute;
+  background-color: #255A66;
+  display: none;
+  border: none;
+  border-radius: 0;
+  padding: 0.7em;
+  top: 115px;
+  height: 600px;
+  left: 0;
+width: 100%;
+}
+.nav-itemz:hover .menu1{
+  display: block;
+  display: flex;
+  flex-direction: row;
+}
+.container3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.pic{
+  width: 100%;
+}
+.pic2{
+  width: 100%;
+}
+.h1{
+  color: black;
+  text-align: start;
+  margin-top: 50px;
+}
+.bottom-left {
+  position: absolute;
+  bottom: 150px;
+  left: 170px;
+}
+.bottom-left1{
+  position: absolute;
+  bottom: 150px;
+  left: 150px;
+}
+.container1{
+  height: 312px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 100%;
+}
+.container {
+  padding: 2px 16px;
+}
+.text{
+  margin-top: 30px;
+}
+.btn{
+  color: white;
+  background-color: #D39534;
+  margin-top: 30px;
+}
+h4{
+  text-align: center;
+  margin-top: 10px;
+}
+.to{
+  text-align: center;
+}
+.poler{
+  margin-top: 10%;
+  margin-left: 30%;
+}
+.hts{
+  color: white;
+  padding-left: 28%;
+  padding-top: 3%;
+}
+.hta{
+  color: white;
+  padding-right: 18%;
+}
+li{
+  color: white;
+  margin-top: 3%;
+}
+.heading{
+  color: white;
+  padding-top: 20%;
+}
+.footer {
+  width: 100%;
+  height: 100%;
+  background-color: #173243;
+  color: white;
+  text-align: center;
+}
+.mvp{
+  color: white;
+  margin-top: 12px;
+  margin-left: 15px;
+}
+#ddo{
+  padding-left: 25px;
+  color: white;
+}
+.mv{
+  color: white;
+  margin-top: 12px;
+}
+.sap{
+  width: 100%;
+}
+.left{
+  padding-left: 110px;
+}
+.butn{
+  background-color: #D39534;
+  padding: 8px;
+  color: white;
+  border: none;
+  margin-left: 110px;
+}
+.btn2{
+  background-color: #D39534;
+  padding: 8px;
+  color: white;
+  border: none;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.text{
+  margin-top: 30px;
+}
+.iti{
+  color: #173243;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.ita{
+  color: #173243;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+.btn{
+  color: white;
+  background-color: #D39534;
+  margin-top: 30px;
+}
+h4{
+  text-align: center;
+  margin-top: 10px;
+}
+.to{
+  text-align: center;
+}
+.poler{
+  margin-top: 10%;
+  margin-left: 30%;
+}
+.hts{
+  color: white;
+  padding-left: 28%;
+  padding-top: 3%;
+}
+.hta{
+  color: white;
+  padding-right: 18%;
+}
+li{
+  color: white;
+  margin-top: 3%;
+}
+.heading{
+  color: white;
+  padding-top: 20%;
+}
+.footer {
+  width: 100%;
+  height: 100%;
+  background-color: #173243;
+  color: white;
+  text-align: center;
+}
+.mvp{
+  color: white;
+  margin-top: 12px;
+  margin-left: 15px;
+}
+.mv{
+  color: white;
+  margin-top: 12px;
+}
+.swq{
+  display: flex;
+  flex-direction: row;
+}
+.text{
+  margin-top: 30px;
+}
+.btn{
+  color: white;
+  background-color: #D39534;
+  margin-top: 30px;
+}
+h4{
+  text-align: center;
+  margin-top: 10px;
+}
+.to{
+  text-align: center;
+}
+.poler{
+  margin-top: 10%;
+  margin-left: 30%;
+}
+.hts{
+  color: white;
+  padding-left: 28%;
+  padding-top: 3%;
+}
+.hta{
+  color: white;
+  padding-right: 18%;
+}
+li{
+  color: white;
+  margin-top: 3%;
+}
+.heading{
+  color: white;
+  padding-top: 20%;
+}
+.footer {
+  width: 100%;
+  height: 100%;
+  background-color: #173243;
+  color: white;
+  text-align: center;
+}
+.mvp{
+  color: white;
+  margin-top: 12px;
+  margin-left: 0px;
+  text-align: center;
+}
+.mv{
+  color: white;
+  margin-top: 12px;
+  text-align: center;
+}
+.butn{
+  color: white;
+  background-color: #617f59;
+  border: none;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 85px;
+  margin-bottom: 10px;
+}
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=text1], select {
+  width: 100%;
+  padding: 50px 16px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#fname1{
+  padding-top: 12px;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+.lot{
+  margin-left: 60px;
+}
+.btn2{
+background-color: #d39534;
+color: white;
+padding: 10px;
+margin-top: 20px;
+margin-bottom: 10px;
+border: none;
+margin: 10px;
+width: 120px;
+}
+.left{
+  padding-left: 85px;
+}
+.im1{
+  max-width: 100%
+}
+.text{
+    margin-top: 30px;
+}
+.btn{
+    color: white;
+    background-color: #D39534;
+    margin-top: 30px;
+}
+h4{
+    text-align: center;
+    margin-top: 10px;
+}
+.to{
+    text-align: center;
+}
+.poler{
+    margin-top: 10%;
+    margin-left: 30%;
+}
+.hts{
+    color: white;
+    padding-left: 28%;
+    padding-top: 3%;
+}
+.hta{
+    color: white;
+    padding-right: 18%;
+}
+li{
+    color: white;
+    margin-top: 3%;
+}
+.heading{
+    color: white;
+    padding-top: 20%;
+}
+.footer {
+    width: 100%;
+    height: 100%;
+    background-color: #173243;
+    color: white;
+    text-align: center;
+ }
+ .mvp{
+    color: white;
+    margin-top: 12px;
+    margin-left: 0px;
+    text-align: center;
+ }
+ .mv{
+    color: white;
+    margin-top: 12px;
+    text-align: center;
+ }
+.butn{
+    color: white;
+    background-color: #617f59;
+    border: none;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 85px;
+    margin-bottom: 10px;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 8px 18px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=text1], select {
+    width: 100%;
+    padding: 50px 16px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  #fname1{
+    padding-top: 12px;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  .lot{
+    margin-left: 60px;
+  }
+  .btn2{
+  background-color: #d39534;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border: none;
+  margin: 10px;
+  width: 120px;
+  }
+  .left{
+    padding-left: 85px;
+  }
+  .im1{
+    max-width: 100%;
+  }
+  .text1{
+    color: #173243;
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+  .text2{
+    color: #173243;
+    font-weight: 700;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  .text3{
+    color: #173243;
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+  .text4{
+    color: #173243;
+    font-weight: 700;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  .eve{
+    margin-top: 30px;
+  }
+
+.text{
+    margin-top: 30px;
+}
+.btn{
+    color: white;
+    background-color: #D39534;
+    margin-top: 30px;
+}
+h4{
+    text-align: center;
+    margin-top: 10px;
+}
+.to{
+    text-align: center;
+}
+.poler{
+    margin-top: 10%;
+    margin-left: 30%;
+}
+.hts{
+    color: white;
+    padding-left: 28%;
+    padding-top: 3%;
+}
+.hta{
+    color: white;
+    padding-right: 18%;
+}
+li{
+    color: white;
+    margin-top: 3%;
+}
+.heading{
+    color: white;
+    padding-top: 20%;
+}
+.footer {
+    width: 100%;
+    height: 100%;
+    background-color: #173243;
+    color: white;
+    text-align: center;
+ }
+ .mvp{
+    color: white;
+    margin-top: 12px;
+    margin-left: 0px;
+    text-align: center;
+ }
+ .mv{
+    color: white;
+    margin-top: 12px;
+    text-align: center;
+ }
+.butn{
+    color: white;
+    background-color: #617f59;
+    border: none;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 85px;
+    margin-bottom: 10px;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 8px 18px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=text1], select {
+    width: 100%;
+    padding: 50px 16px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  #fname1{
+    padding-top: 12px;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  .lot{
+    margin-left: 60px;
+  }
+  .btn2{
+  background-color: #d39534;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border: none;
+  margin: 10px;
+  width: 120px;
+  }
+  .left{
+    padding-left: 85px;
+  }
+  .im1{
+    max-width: 100%;
+  }
+  .text1{
+    color: #173243;
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+  .text2{
+    color: #173243;
+    font-weight: 700;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  .text3{
+    color: #173243;
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+  .text4{
+    color: #173243;
+    font-weight: 700;
+    padding-left: 30px;
+    padding-top: 30px;
+  }
+  .eve{
+    margin-top: 30px;
+  }
+  .plo{
+    color: #173243;
+    padding-top: 40px;
+    padding-left: 110px;
+  }
+  .plo1{
+    padding-left: 110px;
+  }
+  .botn{
+    background-color: #173243;
+    color: white;
+    border: none;
+    margin-left: 110px;
+    margin-top: 20px;
+    padding: 8px;
+    width: 250px;
+  }
+  .botn1{
+    background-color: #173243;
+    color: white;
+    border: none;
+    margin-top: 20px;
+    padding: 8px;
+    width: 250px;
+  }
+  .b2{
+    background-color: #617f59;
+    border: none;
+    color: white;
+    padding: 8px;
+    margin-left: 110px;
+    margin-top: 30px;
+  }
+  .b1{
+    background-color: #d39534;
+    border: none;
+    color: white;
+    padding: 8px;
+    margin-left: 40px;
+    margin-left: 240px;
+    margin-top: 20px;
+    width: 150px;
+  }
+  .p1{
+    color: #d39534;
+    padding-left: 110px;
+    padding-top: 50px;
+  }
+  .p2{
+    padding-left: 110px;
+  }
+  .asao{
+    color: #255A66;
+  }
+  .asao1{
+    color: #617f59;
+  }
+  .asao2{
+    padding-top: 30px;
+    color: #617f59;
+  }
+  .grayy{
+    color: black;
+  }
+  .sad{
+    text-align: start;
+    color: #255A66;
+  }
+  .plot{
+    color: black;
+  }
+  @media only screen and (max-width:767px) and (min-width:320px) {
+    .left{
+        padding-left: 0;
+    }
+    .plot{
+      text-align: center;
+    }
+    .p1{
+      text-align: center;
+    }
+    .p2{
+      text-align: center;
+    }
+    .sad{
+      text-align: center;
+    }
+    .asao2{
+      text-align: center;
+    }
+    .grayy{
+      text-align: center;
+    }
+    .asao{
+      text-align: center;
+    }
+    .asao1{
+      text-align: center;
+    }
+    .mvp{
+        margin-left: 0;
+    }
+    .hts{
+        padding-left: 0;
+    }
+    .hta{
+        text-align: start;
+    }
+    .poler{
+        margin-left: 0;
+    }
+    .eve{
+        text-align: center;
+    }
+    .plo{
+        padding-left: 0;
+        text-align: center;
+    }
+    .plo1{
+        padding-left: 0;
+        text-align: center;
+    }
+    .botn{
+        margin-left: 0;
+    }
+    .botn1{
+      margin-left: 0%;
+  }
+    .b1{
+        margin-left: 0%
+    }
+    .p1{
+        padding-left: 15px;
+    }
+    .p2{
+        padding-left: 15px;
+    }
+    .left{
+      padding-left: 0;
+  }
+  .mvp{
+      margin-left: 0;
+  }
+  .hts{
+      padding-left: 0;
+  }
+  .hta{
+      text-align: start;
+  }
+  .poler{
+      margin-left: 0;
+  }
+  .eve{
+      text-align: center;
+  }
+  .left{
+    padding-left: 0;
+}
+.mvp{
+    margin-left: 0;
+}
+.hts{
+    padding-left: 0;
+}
+.hta{
+    text-align: start;
+}
+.poler{
+    margin-left: 0;
+}
+.left{
+    font-size: 10px;
+}
+.iti{
+    font-size: 10px;
+}
+.ita{
+    font-size: 10px;
+    padding-left: 20px;
+}
+.mvp{
+    margin-left: 0;
+}
+.hts{
+    padding-left: 0;
+}
+.hta{
+    text-align: start;
+}
+.poler{
+    margin-left: 0;
+}
+.left{
+    padding-left: 0;
+}
+#dot1{
+    position: static;
+}
+.pop{
+    top: 17px;
+}
+
+#dou{
+    padding-left: 30px;
+}
+#ddo{
+    padding-left: 30px;
+}
+.mvp{
+    margin-left: 0;
+}
+.hts{
+    padding-left: 0;
+}
+.hta{
+    text-align: start;
+}
+.poler{
+    margin-left: 0;
+}
+.swq{
+    width: 120px;
+}
+.display{
+  display: block;
+}
+.text{
+  text-align: center;
+}
+.h1{
+  text-align: center;
+  font-size: 15px;
+}
+  }
+  @media only screen and (max-width:1024px) and (min-width:768px) {
+    .mv{
+        padding: 0%;
+        margin-top: 14px;
+    }
+    .display{
+      display: inline-block;
+    }
+    .plo{
+        padding-left: 0;
+    }
+    .plo1{
+        padding-left: 0;
+    }
+    .botn{
+        margin-left: 0%;
+
+    }
+    .botn1{
+        margin-left: 0%;
+    }
+    #dot1{
+      position: static;
+  }
+  #dou{
+      padding-left: 30px;
+  }
+  #ddo{
+      padding-left: 30px;
+  }
+  .pop{
+      top: 18px;
+  }
+    .b1{
+        margin-left: 0%
+    }
+    .p1{
+        padding-left: 15px;
+    }
+    .p2{
+        padding-left: 15px;
+    }
+
+  }
+ 
